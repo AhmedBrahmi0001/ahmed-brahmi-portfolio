@@ -1,0 +1,45 @@
+export const skillsData = [
+  {
+    category: "skills.frontend",
+    items: [
+      "React.js",
+      "React Native",
+      "TypeScript",
+      "Redux",
+      "Material UI (MUI)",
+      "HTML5",
+      "CSS3",
+      "Sass",
+    ],
+  },
+  {
+    category: "skills.backend",
+    items: [
+      "Node.js",
+      "Express.js",
+      "Laravel",
+      "REST API",
+      "JWT Authentication",
+      "Microservices Architecture",
+      "Event-Driven Architecture (Kafka)",
+      "MongoDB",
+      "MySQL",
+      "Prisma ORM",
+    ],
+  },
+  {
+    category: "skills.tools",
+    items: [
+      "Git",
+      "GitHub",
+      "GitLab",
+      "Docker",
+      "Linux",
+      "Postman",
+      "Swagger",
+      "Figma",
+      "CI/CD",
+      "Agile / Scrum",
+    ],
+  },
+];

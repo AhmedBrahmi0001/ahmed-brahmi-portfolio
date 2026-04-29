@@ -1,0 +1,16 @@
+export enum SignupAttributes {
+  ID_CODE = 'idCode',
+  BIRTH_DATE = 'birthday',
+  ADDRESS = 'address',
+  IS_OVER_18 = 'isOver18',
+  HAVE_CIN = 'haveCin',
+  CIN = 'cin',
+  SURNAME = 'surname',
+  GENDER = 'gender',
+  TOWN_CITY = 'townCity',
+  DISTRICT = 'district',
+  POSTAL_CODE_ZIP = 'ZIP',
+  COUNTRY = 'country',
+  EMAIL_ADDRESS = 'email',
+  PHONE_NUMBER = 'phone',
+}
