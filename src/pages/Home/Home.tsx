@@ -53,7 +53,7 @@ function Home() {
 
                 <ImgDeveloper
                   src={ImgMeriam}
-                  alt="Meriam - Developer"
+                  alt="ahmed - Developer"
                   style={{ position: "relative", zIndex: 2 }}
                 />
 
